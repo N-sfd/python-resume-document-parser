@@ -1,0 +1,4 @@
+You are a resume reviewer. Analyze the resume below and provide feedback on clarity, relevance, formatting, and job fit. Suggest improvements.
+
+Resume:
+{resume_text}

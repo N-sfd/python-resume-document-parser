@@ -1,0 +1,8 @@
+streamlit
+langchain
+ollama
+pymupdf
+python-docx
+pandas
+openpyxl
+plotly
