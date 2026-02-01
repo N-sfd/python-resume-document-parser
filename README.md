@@ -14,6 +14,18 @@ PDF / DOCX
 
 ## Output
 JSON
+{
+  "name": "John Doe",
+  "skills": ["Python", "SQL", "NLP"],
+  "experience": [
+    {
+      "company": "ABC Corp",
+      "role": "Software Engineer",
+      "years": 3
+    }
+  ]
+}
+
 
 ## Use Cases
 - ATS systems
@@ -23,3 +35,4 @@ JSON
 ## Demo
 (Input screenshot)
 (Output JSON screenshot)
+
