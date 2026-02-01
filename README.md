@@ -1,19 +1,25 @@
----
-title: Smart Resume Reviewer
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: Streamlit template space
----
+# Python Resume & Document Parser
 
-# Welcome to Streamlit!
+This project extracts structured data from resumes and documents (PDF/DOCX)
+and outputs clean JSON for ATS or automation use cases.
 
-Edit `/app.py` to customize this app to your heart's desire. :heart:
+## Features
+- Resume parsing
+- Text cleaning
+- Structured JSON output
+- Easy to extend
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+## Input
+PDF / DOCX
+
+## Output
+JSON
+
+## Use Cases
+- ATS systems
+- HR automation
+- Document processing
+
+## Demo
+(Input screenshot)
+(Output JSON screenshot)
