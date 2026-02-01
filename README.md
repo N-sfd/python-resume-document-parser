@@ -36,3 +36,9 @@ JSON
 (Input screenshot)
 (Output JSON screenshot)
 
+## How to run
+```bash
+python parser.py input_resume.pdf
+Again — optional, but helps technical reviewers.
+
+
